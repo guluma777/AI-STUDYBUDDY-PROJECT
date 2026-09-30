@@ -1,6 +1,6 @@
 # AI StudyBuddy API
 
-An AI-powered educational backend built with **Node.js, Express, MongoDB, and Gemini 2.5 Flash**.
+An AI-powered educational backend built with **Node.js, Express, MongoDB, and Gemini 3.1 Flash lite**.
 
 ## Features
 - JWT auth stored in **HTTP-only cookies** (access + refresh tokens)
