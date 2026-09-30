@@ -6,7 +6,7 @@ An AI-powered educational backend built with **Node.js, Express, MongoDB, and Ge
 - JWT auth stored in **HTTP-only cookies** (access + refresh tokens)
 - Role-Based Access Control (student / admin)
 - Upload study materials (.txt, .md, .pdf)
-- AI-powered: summarize, flashcards, quiz, study plan via Gemini 2.5 Flash
+- AI-powered: summarize, flashcards, quiz, study plan via Gemini 3.1 Flash lite
 
 ---
 
